@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=xCult+😈)](https://git.io/typing-svg)
 
 ## About
-Just a guy born in Russia, 27 y.o. (Not dead inside 💩). I like cats and Deathcore music 🐺
+Just a guy from Russia (originally from Latvia)
 
 ## Stack
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
